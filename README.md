@@ -1,6 +1,6 @@
 # OmniHub-Store-Profit-Performance-Analysis-using-Microsoft-Excel
 The OmniHub Dashboard provides a comprehensive operational view of 2015-2016 data. This central KPI repository turns raw transactions into actionable intelligence, empowering stakeholders to assess profit, identify revenue drivers, and detect underlying trends and inefficiencies
-# OmniHub Store Profit Performance Analysis Project Write-up
+# Project Write-up
 
 ---
 
@@ -70,7 +70,7 @@ The 'Total Trend of Profit By Year' line chart shows a strong, but somewhat erra
 
 A critical feature of this dashboard is its interactive components, which elevate it beyond static reports into a powerful business tool :
 * **Sales Person Slicer:** Allows managers to compare individual performance, motivating teams and identifying coaching needs (e.g., are certain salespeople more effective at pushing high-margin Accessories?) .
-* **Product_C. Slicer:** Enables stakeholders to drill down into the performance of specific categories (Phones vs Accessories vs Clothing) .
+* **Product Category Slicer:** Enables stakeholders to drill down into the performance of specific categories (Phones vs Accessories vs Clothing) .
 * **Payment Option Slicer:** Provides insights into customer preference (e.g., if most profits from high-margin accessories come from Online payments, a targeted digital ad spend could be justified) .
 * **Customer_Agegroup Slicer:** Empowers marketing to isolate the core 'Adult' group's behavior to create super-tailored campaigns .
 
@@ -82,7 +82,8 @@ Based on these detailed insights, several strategic opportunities and recommenda
 
 ### 1. Implement High-Margin Product Strategies
 * **Recommendation:** Shift operational and marketing resources to prioritize and cross-sell the high-margin **'Accessories' category**. The current model for 'Phones' is a high-volume, low-margin operation that can easily become a loss leader if cost control slips.
-* **Actionable Strategy:** Create bundling and "get the accessory free" style promotions where 'Phones' are sold as a value-add to high-margin accessory sales, effectively using the Phones as a marketing tool. Review Tier 3 product performance state-by-state or country-by-country (or region by region, in the case of Nigeria) to possibly review price or phase out items per region, reducing cost of sales. Leverage state specific analysis of state-by-state high-revenue generating products to create inventory and marketing plans that match high-performing regions (states). For example, increase inventory of high revenue products in the two highest performing states, Lagos and Abuja. Grow underperforming states via targeted campaigns. Targeted campaigns may include local promotions, region-specific pricing adjustments, or forming local retail partnerships.
+* **Actionable Strategy:** Create bundling and "get the accessory free" style promotions where 'Phones' are sold as a value-add to high-margin accessory sales, effectively using the Phones as a marketing tool. Review product performance state-by-state (or region by region, in the case of Nigeria) to possibly review price or phase out items per region, reducing cost of sales.
+* Leverage state specific analysis of state-by-state high-revenue generating products to create inventory and marketing plans that match high-performing regions (states). For example, increase inventory of high revenue products in the two highest performing states, Lagos and Abuja. Grow underperforming states via targeted campaigns. Targeted campaigns may include local promotions, region-specific pricing adjustments, or forming local retail partnerships.
 
 ### 2. Marketing Strategy & Market Expansion Realignment
 * **Recommendation:** Align primary marketing strategies with the **'Adult' and 'Young Adult' segments**, as they generate the vast majority of profit.
