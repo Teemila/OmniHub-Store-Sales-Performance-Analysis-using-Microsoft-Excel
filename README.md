@@ -74,6 +74,8 @@ A critical feature of this dashboard is its interactive components, which elevat
 * **Payment Option Slicer:** Provides insights into customer preference (e.g., if most profits from high-margin accessories come from Online payments, a targeted digital ad spend could be justified) .
 * **Customer_Agegroup Slicer:** Empowers marketing to isolate the core 'Adult' group's behavior to create super-tailored campaigns .
 
+<img width="1088" height="706" alt="Screenshot 2026-04-22 141150" src="https://github.com/user-attachments/assets/8bf8c048-7610-43f6-b9e5-f06e5f17f1e4" />
+
 ---
 
 ## Strategic Business Recommendations
